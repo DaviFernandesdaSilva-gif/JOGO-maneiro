@@ -1,0 +1,89 @@
+🎮 JOGO Maneiro
+Um pequeno jogo web desenvolvido com HTML, CSS e JavaScript — ideal para aprender, praticar ou se divertir!
+
+🚀 Tecnologias utilizadas
+HTML5
+
+CSS3
+
+JavaScript
+
+📂 Estrutura do projeto
+index.html: estrutura principal da página
+
+style.css: estilos visuais do jogo
+
+app.js: lógica e interatividade do jogo
+
+💻 Como executar
+Clone este repositório:
+
+bash
+Copiar
+Editar
+
+git clone https://github.com/DaviFernandesdaSilva-gif/JOGO-maneiro.git
+
+Abra o arquivo index.html em seu navegador preferido.
+Não é necessário servidor ou instalação adicional — tudo roda localmente!
+
+📸 Captura de tela
+Adicione aqui uma imagem ou GIF do jogo em funcionamento para ilustrar.
+
+🧠 Sobre o jogo
+Jogo do Número Secreto é um jogo simples de adivinhação feito com HTML, CSS e JavaScript.
+
+O jogador deve tentar adivinhar um número secreto entre 1 e 10. A cada tentativa, o jogo informa se o número digitado é maior ou menor que o número secreto, até que o jogador acerte.
+
+Outros destaques:
+
+O número secreto é sorteado aleatoriamente e não se repete até que todos os números possíveis tenham sido utilizados.
+
+O jogo usa áudio com voz sintetizada em português brasileiro para tornar a experiência mais interativa.
+
+O botão de reiniciar só é habilitado após o jogador acertar o número.
+✨ Funcionalidades
+ Liste aqui as principais funcionalidades do jogo, como pontuação, níveis, personagens, etc.
+
+🎨 Interface e Experiência do Usuário (UX)
+Posso melhorar o visual com CSS, adicionando cores mais modernas, botões estilizados e animações sutis.
+
+Posso tornar o layout responsivo para que o jogo funcione bem em celulares.
+
+Posso exibir um histórico das minhas tentativas para evitar chutar números repetidos.
+
+Posso criar um indicador de progresso, como uma barra ou número de chances restantes.
+
+🧠 Mecânicas do jogo
+Posso implementar níveis de dificuldade (Fácil: 1–10; Médio: 1–50; Difícil: 1–100).
+
+Posso limitar o número de tentativas e exibir uma mensagem de “Fim de jogo” quando eu errar todas as chances.
+
+Posso adicionar um sistema de pontuação: quanto menos tentativas eu usar, mais pontos eu ganho, e até guardar meus recordes no localStorage.
+
+🔊 Interatividade
+Posso incluir efeitos sonoros para acerto, erro e cliques.
+
+Posso criar animações suaves (fade-in, transições) nas mensagens e botões.
+
+🧪 Melhorias técnicas
+Posso separar a lógica JavaScript em módulos ou funções menores para organizar melhor o código.
+
+Posso criar funções utilitárias para atualizar o DOM, evitando repetição de código.
+
+Posso adicionar suporte a múltiplos idiomas para internacionalizar o jogo (i18n).
+
+📱 Outras ideias legais
+Posso implementar um modo claro/escuro.
+
+Posso adicionar um timer para medir quanto tempo levo para acertar.
+
+Posso criar um ranking local (ou até online) para comparar meus melhores tempos e pontuações.
+
+Posso tematizar o jogo (por exemplo, com personagens de filmes, times de futebol, etc.).
+
+
+
+🧑‍💻 Autor
+Desenvolvido por Davi Fernandes da Silva
+
